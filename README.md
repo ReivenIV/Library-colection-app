@@ -1,3 +1,7 @@
+## Project Screen Shot  
+#### Landing page: 
+![landingPage](Photos/Vue.jpg)
+
 # Library-colection-app
 
 #### keep your collection:
@@ -6,12 +10,6 @@ Just a simple excercice on vanilla.js, the idea was to create an app that can sa
 
 ## Project Status
 The project is finish and i'm moving on to another one. i'm open to proposition or critics. Feel free to use it and change it as you will. 
-
-
-## Project Screen Shot
-  
-#### Landing page: 
-![landingPage](Photos/Vue.jpg)
 
 ## Contacte me: 
 
